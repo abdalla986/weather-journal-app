@@ -1,4 +1,5 @@
 # Weather-Journal App Project
+Udacity Weather Journal App Project for Front End Web Development Professional Nanodegree Program
 
 ## Overview
 Weather Journal App is a project that create an asynchronous web app that uses OpenWeatherMap Web API and user data to dynamically update the User Interface.
